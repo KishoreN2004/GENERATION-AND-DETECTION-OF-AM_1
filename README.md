@@ -1,4 +1,4 @@
-# GENERATION-AND-DETECTION-OF-AM_1
+# GENERATION-AND-DETECTION-OF-AM
 ## AIM:
 To generate and detect the amplitude modulation and demodulation u s i n g S C I L A B and to calculate modulation index of AM.
 
@@ -83,13 +83,35 @@ Note: Keep all the switch faults in off position
 <img width="600" height="800" alt="image" src="https://github.com/user-attachments/assets/7bc77926-9c2a-42c6-994b-6c67433b11d2" />
 
 ## PROGRAM:
+
+
+<img width="630" height="819" alt="Screenshot 2025-08-21 160358" src="https://github.com/user-attachments/assets/677a4c85-1753-4554-b1c8-b69ddccadec5" />
+
+<img width="537" height="113" alt="Screenshot 2025-10-16 184641" src="https://github.com/user-attachments/assets/4bfd3969-a5a3-4f66-9bde-7714621ce8f8" />
+
+
  
 ## TABULATION:
 
+
+![IMG-20251016-WA0024](https://github.com/user-attachments/assets/5b95f4f8-0f0f-4594-9440-1891878e58ce)
+
+
+
 ## CALCULATION:
+
+
+![IMG-20251016-WA0023](https://github.com/user-attachments/assets/14bcf3b3-b7e2-4a53-ae12-9dea522b7fbe)
 
 
 
 ## OUTPUT:
 
+
+<img width="1743" height="875" alt="Screenshot 2025-08-21 160343" src="https://github.com/user-attachments/assets/fa4aa8b5-31db-42cb-b4b9-94d46fd05785" />
+
+
+
 ## RESULT:
+
+Thus the amplitude modulation and demodulation is experimentally done and the output is verified.
